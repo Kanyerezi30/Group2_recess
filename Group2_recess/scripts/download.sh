@@ -8,7 +8,7 @@
 
 # This is a script to download fastq files
 
-for i in `cat /etc/ace-data/home/skanyerezi/Group2_recess/Data/id.txt`
+for i in `cat /etc/ace-data/home/skanyerezi/Group2_recess/Data/undone.txt`
 do
         /etc/ace-data/home/skanyerezi/.conda/envs/snippy-env/bin/fastq-dump.2.11.0 --gzip --split-e $i --outdir /etc/ace-data/home/skanyerezi/Group2_recess/Data/raw
 done
