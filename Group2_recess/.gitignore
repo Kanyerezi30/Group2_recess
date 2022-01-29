@@ -114,7 +114,10 @@ spec-file.txt
 tbdb/
 test1.txt
 wilson/
-/etc/ace-data/home/skanyerezi/Group2_recess/Data/raw/*
-/etc/ace-data/home/skanyerezi/Group2_recess/Data/raw
 scripts/*out
 scripts/*err
+Data/raw/*
+Data/results/*
+Data/done.txt
+Data/undone.txt
+../.gitignore
