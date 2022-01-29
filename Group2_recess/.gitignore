@@ -115,6 +115,6 @@ tbdb/
 test1.txt
 wilson/
 /etc/ace-data/home/skanyerezi/Group2_recess/Data/raw/*
-/etc/ace-data/home/skanyerezi/Group2_recess/scripts/*out
-/etc/ace-data/home/skanyerezi/Group2_recess/scripts/*err
 /etc/ace-data/home/skanyerezi/Group2_recess/Data/raw
+scripts/*out
+scripts/*err
