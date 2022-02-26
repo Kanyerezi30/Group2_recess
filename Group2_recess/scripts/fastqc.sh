@@ -9,4 +9,6 @@
 # This is a script designed to perform quality assessment using fastqc
 
 path='/etc/ace-data/home/skanyerezi/Group2_recess/Data'
-fastqc ${path}/raw/* -o ${path}/results/fastqc_res/
+#fastqc ${path}/raw/* -o ${path}/results/fastqc_res/
+
+multiqc ${path}/results/fastqc_res/ -o ${path}/results/multiqc_res/
