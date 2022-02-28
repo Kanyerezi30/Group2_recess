@@ -1,5 +1,6 @@
 # Group2_recess
 This repository is for Group 2 of  the Master of Science in Bioinformatics 2021 class Recess Project
+
 INTRODUCTION
  Escherichia coli (E. coli) is a gram-negative bacterium which is associated with a high burden of infections and antimicrobial resistance in humans, and contamination in food production systems worldwide [1, 2]. In Uganda, E. coli is the predominant pathogen causing urinary tract infections diagnosed at all levels of care and is associated with increasing levels of resistance to commonly prescribed antibiotics [3]. 
 
@@ -11,6 +12,7 @@ E. coli isolated from rural drinking water systems and household storage in Keny
 
 Objectives 
 The objectives of the analysis were:
+
 •	To determine the extent to which E. coli in the distribution system is linked to either human or livestock faecal contamination.
 •	To determine the health risk implications of changes in E. coli concentration between point of collection (PoC) and point of use (PoU).  
 
